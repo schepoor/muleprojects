@@ -5,5 +5,7 @@
 	xsi:schemaLocation="http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/current/mule.xsd">
 	<flow name="gitdemoprojectFlow" doc:id="90866ce3-fa03-421c-8923-5ff85c223464" >
 		<logger level="INFO" doc:name="Logger" doc:id="af68f131-ebce-4e46-88e1-40ffc321b930" />
+		<logger level="INFO" doc:name="Logger" doc:id="7591c966-ed4c-4c1d-b9c6-a8771e010cf9" />
+		<logger level="INFO" doc:name="Logger" doc:id="eec3f49a-a91c-4683-9cdb-6379d8a21828" />
 	</flow>
 </mule>
